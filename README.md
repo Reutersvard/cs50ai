@@ -1,2 +1,2 @@
 # cs50ai
-Some CS50 AI exercises I did
+Some solutions to problem sets from the course CS50 Artificial Intelligence, 2020 - 2021.
